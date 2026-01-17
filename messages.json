@@ -1,0 +1,246 @@
+{
+  "hello": {
+    "en": "Hello world",
+    "pt": "Olá mundo"
+  },
+  "loading": {
+    "en": "Loading...",
+    "pt": "Carregando..."
+  },
+  "loading_notes": {
+    "en": "Loading notes...",
+    "pt": "Carregando notas..."
+  },
+  "loading_music": {
+    "en": "Loading Music...",
+    "pt": "Carregando Música..."
+  },
+  "loading_tv": {
+    "en": "Loading TV...",
+    "pt": "Carregando TV..."
+  },
+  "loading_games": {
+    "en": "Loading Games...",
+    "pt": "Carregando Jogos..."
+  },
+  "loading_learning": {
+    "en": "Loading Learning...",
+    "pt": "Carregando Estudos..."
+  },
+  "notes_empty": {
+    "en": "No notes found.",
+    "pt": "Nenhuma nota encontrada."
+  },
+  "notes_error": {
+    "en": "Error loading updates: ",
+    "pt": "Erro ao carregar atualizações: "
+  },
+  "error_403": {
+    "en": "Access denied (403). Check PocketBase API Rules.",
+    "pt": "Acesso negado (403). Verifique as API Rules no PocketBase."
+  },
+  "listening_now": {
+    "en": "Listening now",
+    "pt": "Ouvindo agora"
+  },
+  "last_played": {
+    "en": "Last played",
+    "pt": "Última tocada"
+  },
+  "watched_recently": {
+    "en": "Watched recently",
+    "pt": "Assistido recentemente"
+  },
+  "played_recently": {
+    "en": "Played recently",
+    "pt": "Jogado recentemente"
+  },
+  "ptr_pull": {
+    "en": "Pull to refresh",
+    "pt": "Puxe para atualizar"
+  },
+  "ptr_release": {
+    "en": "Release to refresh",
+    "pt": "Solte para atualizar"
+  },
+  "ptr_refreshing": {
+    "en": "Refreshing...",
+    "pt": "Atualizando..."
+  },
+  "push_ios_hint": {
+    "en": "To receive notifications, add this site to your home screen (Share -> Add to Home Screen).",
+    "pt": "Para receber notificações, adicione este site à tela de início (Compartilhar -> Adicionar à Tela de Início)."
+  },
+  "push_subscribed": {
+    "en": "✅ Subscribed",
+    "pt": "✅ Inscrito"
+  },
+  "push_subscribe": {
+    "en": "🔔 Subscribe",
+    "pt": "🔔 Inscreva-se"
+  },
+  "push_cancel_hover": {
+    "en": "Click to unsubscribe",
+    "pt": "Clique para cancelar inscrição"
+  },
+  "push_canceling": {
+    "en": "Unsubscribing...",
+    "pt": "Cancelando..."
+  },
+  "push_confirm_unsubscribe": {
+    "en": "Do you want to stop receiving notifications?",
+    "pt": "Deseja parar de receber notificações?"
+  },
+  "push_success": {
+    "en": "Subscription successful!",
+    "pt": "Inscrição realizada com sucesso!"
+  },
+  "push_error_subscribe": {
+    "en": "Error subscribing: ",
+    "pt": "Erro ao inscrever: "
+  },
+  "push_error_unsubscribe": {
+    "en": "Error unsubscribing: ",
+    "pt": "Erro ao cancelar inscrição: "
+  },
+  "push_not_supported": {
+    "en": "Push notifications are not supported in this browser.",
+    "pt": "Notificações Push não são suportadas neste navegador."
+  },
+  "push_subscribing": {
+    "en": "Subscribing...",
+    "pt": "Inscrevendo..."
+  },
+  "push_denied": {
+    "en": "Notification permission denied.",
+    "pt": "Permissão de notificação negada."
+  },
+  "push_unsubscribed_alert": {
+    "en": "Unsubscribed.",
+    "pt": "Inscrição cancelada."
+  },
+  "studies_title": {
+    "en": "Learning",
+    "pt": "Estudos"
+  },
+  "timeline_title": {
+    "en": "Timeline",
+    "pt": "Linha do Tempo"
+  },
+  "learning_error": {
+    "en": "Error loading",
+    "pt": "Erro ao carregar"
+  },
+  "untitled": {
+    "en": "Untitled",
+    "pt": "Sem título"
+  },
+  "translated_from": {
+    "en": "Translated from",
+    "pt": "Traduzido de"
+  },
+  "original_text": {
+    "en": "Original text",
+    "pt": "Texto original"
+  },
+  "language_en": {
+    "en": "English",
+    "pt": "Inglês"
+  },
+  "language_pt": {
+    "en": "Portuguese",
+    "pt": "Português"
+  },
+  "load_more": {
+    "en": "[ LOAD MORE ]",
+    "pt": "[ CARREGAR MAIS ]"
+  },
+  "loading_more": {
+    "en": "LOADING...",
+    "pt": "CARREGANDO..."
+  },
+  "error_loading_more": {
+    "en": "ERROR LOADING MORE",
+    "pt": "ERRO AO CARREGAR MAIS"
+  },
+  "error_retry": {
+    "en": "RETRY",
+    "pt": "TENTAR NOVAMENTE"
+  },
+  "contact_title": {
+    "en": "Contact",
+    "pt": "Contato"
+  },
+  "contact_name_placeholder": {
+    "en": "Your name",
+    "pt": "Seu nome"
+  },
+  "contact_info_label": {
+    "en": "HOW TO REPLY (OPTIONAL):",
+    "pt": "COMO RESPONDER (OPCIONAL):"
+  },
+  "contact_info_placeholder": {
+    "en": "Email, Twitter, Bluesky...",
+    "pt": "Email, Twitter, Bluesky..."
+  },
+  "contact_from_label": {
+    "en": "FROM:",
+    "pt": "DE:"
+  },
+  "contact_message_label": {
+    "en": "MESSAGE:",
+    "pt": "MENSAGEM:"
+  },
+  "contact_message_placeholder": {
+    "en": "Your message...",
+    "pt": "Sua mensagem..."
+  },
+  "contact_send": {
+    "en": "SEND MESSAGE",
+    "pt": "ENVIAR MENSAGEM"
+  },
+  "contact_sending": {
+    "en": "SENDING...",
+    "pt": "ENVIANDO..."
+  },
+  "contact_success": {
+    "en": "Message sent! I'll reply soon. :)",
+    "pt": "Mensagem enviada! Respondo em breve. :)"
+  },
+  "contact_error": {
+    "en": "Error sending. Try again later.",
+    "pt": "Erro ao enviar. Tente novamente mais tarde."
+  },
+  "contact_rate_limit": {
+    "en": "You're sending too fast. Please wait 10 minutes.",
+    "pt": "Você está enviando muito rápido. Por favor, aguarde 10 minutos."
+  },
+  "contact_close": {
+    "en": "Close",
+    "pt": "Fechar"
+  },
+  "yes": {
+    "en": "Yes",
+    "pt": "Sim"
+  },
+  "no": {
+    "en": "No",
+    "pt": "Não"
+  },
+  "error_loading_music": {
+    "en": "Unable to load music.",
+    "pt": "Não foi possível carregar músicas."
+  },
+  "error_loading_tv": {
+    "en": "Unable to load history.",
+    "pt": "Não foi possível carregar o histórico."
+  },
+  "error_loading_games": {
+    "en": "Unable to load games.",
+    "pt": "Não foi possível carregar os jogos."
+  },
+  "error_loading_learning": {
+    "en": "Unable to load studies.",
+    "pt": "Não foi possível carregar os estudos."
+  }
+}
